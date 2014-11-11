@@ -1,2 +1,2 @@
-estructuraOpenShift
-===================
+pruebaProyecto2
+===============
